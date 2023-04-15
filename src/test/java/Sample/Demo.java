@@ -10,7 +10,6 @@ public class Demo
 	{
 	
 	
-	
 		System.out.println("this is demo pgm");
 		
 		
